@@ -20,10 +20,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.salesforce.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="salesforce" width="40" height="40"/>
+    <img src="https://th.bing.com/th/id/OIP.EUn3FKOzzzVbHedT6Vbq_gHaHk?rs=1&pid=ImgDetMain" alt="salesforce" width="40" height="40"/>
   </a>
    <a href="https://trailhead.salesforce.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.radnip.com/wp-content/uploads/2015/04/trailhead-768x480.png" alt="trailhead" width="40" height="40"/>
+    <img src="https://www.vhv.rs/dpng/d/422-4226615_salesforce-trailhead-logo-png-transparent-png.png" alt="trailhead" width="40" height="40"/>
   </a>
   <a href="https://developer.salesforce.com" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/R.37e424c3c886c136e0b4869cb6ef7a4d?rik=gPBLu6o4ctW4JA&riu=http%3a%2f%2ftheblogreaders.com%2fwp-content%2fuploads%2f2015%2f09%2fSalesforce-Developer.png&ehk=C5ooZl5%2fTK3xgVirIMa%2bZf%2fVkwJeWQoSG3nrs%2fiZQGo%3d&risl=&pid=ImgRaw&r=0" alt="salesforce developer" width="40" height="40"/>
@@ -36,7 +36,7 @@
     <img src="https://strategicgrowthinc.com/wp-content/uploads/2018/02/Cloud-Circle-Blue-Border-Sales-Cloud.png" alt="sales cloud" width="40" height="40"/>
   </a>
   <a href="https://www.salesforce.com/solutions/service-cloud/" target="_blank" rel="noreferrer">
-    <img src="https://d22e4d61ky6061.cloudfront.net/sites/default/files/ServiceCloud.png" alt="service cloud" width="40" height="40"/>
+    <img src="https://www.kcloudtechnologies.com/wp-content/uploads/2022/11/FinanceServiceCloudLogo.png" alt="service cloud" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
