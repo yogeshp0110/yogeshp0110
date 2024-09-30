@@ -31,17 +31,12 @@
   <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_apex/apache_apex-icon.svg" alt="apex" width="40" height="40"/>
   </a>
-  <a href="https://developer.salesforce.com/docs/component-library/documentation/en/lwc" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="lwc" width="40" height="40"/>
-  </a>
-  <a href="https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/components_intro.htm" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="aura" width="40" height="40"/>
-  </a>
+  
   <a href="https://www.salesforce.com/solutions/sales-cloud/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="sales cloud" width="40" height="40"/>
+    <img src="https://strategicgrowthinc.com/wp-content/uploads/2018/02/Cloud-Circle-Blue-Border-Sales-Cloud.png" alt="sales cloud" width="40" height="40"/>
   </a>
   <a href="https://www.salesforce.com/solutions/service-cloud/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="service cloud" width="40" height="40"/>
+    <img src="https://d22e4d61ky6061.cloudfront.net/sites/default/files/ServiceCloud.png" alt="service cloud" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
