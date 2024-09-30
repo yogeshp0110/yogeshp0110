@@ -3,11 +3,12 @@
 <h3 align="center">A passionate frontend and Backend developer...!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Java-script, Angular, React-Js, Azure.**
+- 🌱 I’m currently learning **Salesforce AI-Specilist and AI-Associate**
 
-- 💬 Ask my Skills **Java,Spring, Spring-Boot,Microservices,Hibernate,RestAPI.**
+- 💬 Ask my Skills **Salesforce Developer,Platform Developer,Apex,LWC,Sales & Service Cloud,Core Java,MySQL,HTML,CSS,JS. **
 
 - 📫 How to reach me **pyogee0110@gmail.com**
+	
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ yogesh-patil-312928171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ yogesh-patil-312928171" height="30" width="40" /></a>
