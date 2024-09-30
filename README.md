@@ -19,11 +19,11 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.salesforce.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.dribbble.com/users/28455/screenshots/2097226/analytics-watch-icon.gif" alt="salesforce" width="40" height="40"/>
+  </a>
  <a href="https://www.salesforce.com/trailblazer/iv186wcjhjrvwvky9b" target="_blank" rel="noreferrer">
     <img src="https://abhimanyud3dx.github.io/superqbit-static-resources/resources/images/cert/AI.Associate.png" alt="salesforce" width="40" height="40"/>
-  </a>
-  <a href="https://www.salesforce.com" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/OIP.EUn3FKOzzzVbHedT6Vbq_gHaHk?rs=1&pid=ImgDetMain" alt="salesforce" width="40" height="40"/>
   </a>
    <a href="https://trailhead.salesforce.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vhv.rs/dpng/d/422-4226615_salesforce-trailhead-logo-png-transparent-png.png" alt="trailhead" width="40" height="40"/>
