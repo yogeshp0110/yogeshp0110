@@ -23,7 +23,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/salesforce-1.svg" alt="salesforce" width="40" height="40"/>
   </a>
   <a href="https://developer.salesforce.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/salesforce.svg" alt="salesforce developer" width="40" height="40"/>
+    <img src="https://avatars0.githubusercontent.com/u/366471?s=280&v=4" alt="salesforce developer" width="40" height="40"/>
   </a>
   <a href="https://developer.salesforce.com/platform-developer" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="platform developer" width="40" height="40"/>
