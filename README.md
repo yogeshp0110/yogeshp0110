@@ -23,13 +23,10 @@
     <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="salesforce" width="40" height="40"/>
   </a>
    <a href="https://trailhead.salesforce.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/salesforce_trailhead/salesforce_trailhead-icon.svg" alt="trailhead" width="40" height="40"/>
+    <img src="https://www.radnip.com/wp-content/uploads/2015/04/trailhead-768x480.png" alt="trailhead" width="40" height="40"/>
   </a>
   <a href="https://developer.salesforce.com" target="_blank" rel="noreferrer">
-    <img src="https://avatars0.githubusercontent.com/u/366471?s=280&v=4" alt="salesforce developer" width="40" height="40"/>
-  </a>
-  <a href="https://developer.salesforce.com/platform-developer" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="platform developer" width="40" height="40"/>
+    <img src="https://th.bing.com/th/id/R.37e424c3c886c136e0b4869cb6ef7a4d?rik=gPBLu6o4ctW4JA&riu=http%3a%2f%2ftheblogreaders.com%2fwp-content%2fuploads%2f2015%2f09%2fSalesforce-Developer.png&ehk=C5ooZl5%2fTK3xgVirIMa%2bZf%2fVkwJeWQoSG3nrs%2fiZQGo%3d&risl=&pid=ImgRaw&r=0" alt="salesforce developer" width="40" height="40"/>
   </a>
   <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_apex/apache_apex-icon.svg" alt="apex" width="40" height="40"/>
