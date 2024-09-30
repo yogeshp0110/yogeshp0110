@@ -19,6 +19,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+ <a href="https://www.salesforce.com/trailblazer/iv186wcjhjrvwvky9b" target="_blank" rel="noreferrer">
+    <img src="https://salesforcegeek.in/wp-content/uploads/2023/11/complete-salesforce-ROADMAP-1024x576.png" alt="salesforce" width="40" height="40"/>
+  </a>
   <a href="https://www.salesforce.com" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/OIP.EUn3FKOzzzVbHedT6Vbq_gHaHk?rs=1&pid=ImgDetMain" alt="salesforce" width="40" height="40"/>
   </a>
