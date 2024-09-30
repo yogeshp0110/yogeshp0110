@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend and Backend developer...!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Salesforce AI-Specilist and AI-Associate**
+- 🌱 I’m currently learning **: Salesforce AI-Specilist and AI-Associate**
 
-- 💬 Ask my Skills **Salesforce Developer,Platform Developer,Apex,LWC,Sales & Service Cloud,Core Java,MySQL,HTML,CSS,JS. **
+- 💬 Ask my Skills **: Salesforce Developer,Platform Developer,Apex,LWC,Sales & Service Cloud,Core Java,MySQL,HTML,CSS,JS.**
 
 - 📫 How to reach me **pyogee0110@gmail.com**
 	
