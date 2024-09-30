@@ -20,7 +20,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.salesforce.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/salesforce-1.svg" alt="salesforce" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="salesforce" width="40" height="40"/>
+  </a>
+   <a href="https://trailhead.salesforce.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/salesforce_trailhead/salesforce_trailhead-icon.svg" alt="trailhead" width="40" height="40"/>
   </a>
   <a href="https://developer.salesforce.com" target="_blank" rel="noreferrer">
     <img src="https://avatars0.githubusercontent.com/u/366471?s=280&v=4" alt="salesforce developer" width="40" height="40"/>
@@ -29,7 +32,7 @@
     <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="platform developer" width="40" height="40"/>
   </a>
   <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro.htm" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="apex" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_apex/apache_apex-icon.svg" alt="apex" width="40" height="40"/>
   </a>
   <a href="https://developer.salesforce.com/docs/component-library/documentation/en/lwc" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="lwc" width="40" height="40"/>
@@ -61,9 +64,7 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
-  <a href="https://trailhead.salesforce.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/salesforce_trailhead/salesforce_trailhead-icon.svg" alt="trailhead" width="40" height="40"/>
-  </a>
+ 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshp0110&show_icons=true&locale=en&layout=compact" alt="yogeshp0110" /></p>
